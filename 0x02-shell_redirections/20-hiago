@@ -1,0 +1,2 @@
+#!/bin/bash
+rt -d 'c' | tr -d 'C'
